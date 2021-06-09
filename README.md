@@ -1,2 +1,3 @@
-# Image_to_text
+# IMAGE TO TEXT
 This project converts image to text.
+
